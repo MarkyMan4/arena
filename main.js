@@ -1,6 +1,7 @@
 function gameInit() {
     // called once after the engine starts up
     // setup the game
+    // create timer here?
 }
 
 function gameUpdate() {
